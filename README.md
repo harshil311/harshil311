@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshil Rana
 - 👀 I’m interested in Software Development
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 🤘 I’m looking to collaborate on Web Development Projects
 - 📫 Reach me at ranaharshil311@gmail.com
 
 <!---
